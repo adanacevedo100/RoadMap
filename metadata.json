@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Roadmap - TurboSteps Ecosystem",
+  "description": "An interactive D3.js and React-based visualization of the TurboSteps product and feature ecosystem. Click on nodes to explore the roadmap.",
+  "requestFramePermissions": []
+}
